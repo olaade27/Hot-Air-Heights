@@ -1,0 +1,61 @@
+{
+    "sceneBackground" : [
+        {
+            "background" : [
+                "skyhigh_enhanced.jpeg",
+                "3d-fantasy-scene copy.jpg"
+            ],
+            "BackgroundSpeed" : "200.0",
+            "fallDistance" : "-20.0",
+            "fallDuration" : "0.1",
+            "scene" : {
+                "currency" : [
+                    {
+                        "name" : "coin_0",
+                        "number" : "29"
+                    }
+                ],
+                "Pickupitems" : [
+                    {
+                        "name" : "greenShield_",
+                        "number" : "7"
+                    }
+                ],
+                "BackgroundItems" : [
+                    {
+                        "name" : "cloudRend.png",
+                        "number" : "10"
+                    }
+                ],
+                "colisionItems" : [
+                    {
+                        "name" : "none",
+                        "number" : "1"
+                    }
+                    
+                ],
+                
+            }
+            
+        }
+    ],
+    "BalloonInformation" : [
+        {
+           "Balloon" : "Hot-Air-Balloon-PNG-Pic.png",
+           "animation" : "smoke_%02d.png",
+           "animateNum" : "12"
+        }
+    ],
+    "BackgroundAnimation" : [
+            {
+                "name" : "explosion_%02d.png",
+                "number" : "47",
+                "size" : "200.0"
+            },
+            {
+                "name" : "voidsmoke_%d.png",
+                "number" : "7",
+                "size" : "180.0"
+            }
+    ]
+}

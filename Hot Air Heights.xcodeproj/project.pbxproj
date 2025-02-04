@@ -7,6 +7,50 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		DC0522522CA60FFA00C9181D /* UserData.swift in Sources */ = {isa = PBXBuildFile; fileRef = DC0522512CA60FFA00C9181D /* UserData.swift */; };
+		DC0522E72CB49CE800C9181D /* Hot-Air-Balloon-PNG-Image@1x.png in Resources */ = {isa = PBXBuildFile; fileRef = DC0522BD2CB49CE700C9181D /* Hot-Air-Balloon-PNG-Image@1x.png */; };
+		DC0522E82CB49CE800C9181D /* Hot-Air-Balloon-PNG-Image@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = DC0522BE2CB49CE700C9181D /* Hot-Air-Balloon-PNG-Image@2x.png */; };
+		DC0522E92CB49CE800C9181D /* Hot-Air-Balloon-PNG-Image@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = DC0522BF2CB49CE700C9181D /* Hot-Air-Balloon-PNG-Image@3x.png */; };
+		DC0522EA2CB49CE800C9181D /* 3d-fantasy-scene copy.jpg in Resources */ = {isa = PBXBuildFile; fileRef = DC0522C12CB49CE700C9181D /* 3d-fantasy-scene copy.jpg */; };
+		DC0522EB2CB49CE800C9181D /* 3d-fantasy-scene.jpg in Resources */ = {isa = PBXBuildFile; fileRef = DC0522C22CB49CE700C9181D /* 3d-fantasy-scene.jpg */; };
+		DC0522EC2CB49CE800C9181D /* aircraft_balloon_air.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = DC0522C32CB49CE700C9181D /* aircraft_balloon_air.jpeg */; };
+		DC0522ED2CB49CE800C9181D /* anime-style-clouds (1).jpg in Resources */ = {isa = PBXBuildFile; fileRef = DC0522C42CB49CE700C9181D /* anime-style-clouds (1).jpg */; };
+		DC0522EE2CB49CE800C9181D /* backgroun1.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = DC0522C52CB49CE700C9181D /* backgroun1.jpeg */; };
+		DC0522EF2CB49CE800C9181D /* beautiful-clouds-scenery.jpg in Resources */ = {isa = PBXBuildFile; fileRef = DC0522C62CB49CE700C9181D /* beautiful-clouds-scenery.jpg */; };
+		DC0522F02CB49CE800C9181D /* down4.png in Resources */ = {isa = PBXBuildFile; fileRef = DC0522C72CB49CE700C9181D /* down4.png */; };
+		DC0522F12CB49CE800C9181D /* down5.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = DC0522C82CB49CE700C9181D /* down5.jpeg */; };
+		DC0522F22CB49CE800C9181D /* down7.jpg in Resources */ = {isa = PBXBuildFile; fileRef = DC0522C92CB49CE700C9181D /* down7.jpg */; };
+		DC0522F32CB49CE800C9181D /* down9.jpg in Resources */ = {isa = PBXBuildFile; fileRef = DC0522CA2CB49CE700C9181D /* down9.jpg */; };
+		DC0522F42CB49CE800C9181D /* down10.jpg in Resources */ = {isa = PBXBuildFile; fileRef = DC0522CB2CB49CE700C9181D /* down10.jpg */; };
+		DC0522F52CB49CE800C9181D /* down11.jpg in Resources */ = {isa = PBXBuildFile; fileRef = DC0522CC2CB49CE700C9181D /* down11.jpg */; };
+		DC0522F62CB49CE800C9181D /* down12.jpg in Resources */ = {isa = PBXBuildFile; fileRef = DC0522CD2CB49CE700C9181D /* down12.jpg */; };
+		DC0522F72CB49CE800C9181D /* download2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = DC0522CE2CB49CE700C9181D /* download2.jpg */; };
+		DC0522F82CB49CE800C9181D /* download3.png in Resources */ = {isa = PBXBuildFile; fileRef = DC0522CF2CB49CE700C9181D /* download3.png */; };
+		DC0522F92CB49CE800C9181D /* Explosion-PNG-removebg-preview.png in Resources */ = {isa = PBXBuildFile; fileRef = DC0522D02CB49CE700C9181D /* Explosion-PNG-removebg-preview.png */; };
+		DC0522FA2CB49CE800C9181D /* grass_tileset.png in Resources */ = {isa = PBXBuildFile; fileRef = DC0522D12CB49CE700C9181D /* grass_tileset.png */; };
+		DC0522FB2CB49CE800C9181D /* hot-air-balloon-1.webp in Resources */ = {isa = PBXBuildFile; fileRef = DC0522D22CB49CE700C9181D /* hot-air-balloon-1.webp */; };
+		DC0522FC2CB49CE800C9181D /* Hot-Air-Balloon-PNG-Image.png in Resources */ = {isa = PBXBuildFile; fileRef = DC0522D32CB49CE700C9181D /* Hot-Air-Balloon-PNG-Image.png */; };
+		DC0522FD2CB49CE800C9181D /* Hot-Air-Balloon-PNG-Pic.png in Resources */ = {isa = PBXBuildFile; fileRef = DC0522D42CB49CE700C9181D /* Hot-Air-Balloon-PNG-Pic.png */; };
+		DC0522FE2CB49CE800C9181D /* Hot-Air-Balloon-PNG-Pic.psd in Resources */ = {isa = PBXBuildFile; fileRef = DC0522D52CB49CE700C9181D /* Hot-Air-Balloon-PNG-Pic.psd */; };
+		DC0522FF2CB49CE800C9181D /* i01_skytru.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = DC0522D62CB49CE700C9181D /* i01_skytru.jpeg */; };
+		DC0523002CB49CE800C9181D /* nature-landscape-with-dreamy-aesthetic-color-year-tones.jpg in Resources */ = {isa = PBXBuildFile; fileRef = DC0522D72CB49CE700C9181D /* nature-landscape-with-dreamy-aesthetic-color-year-tones.jpg */; };
+		DC0523012CB49CE800C9181D /* pinkHot_airBalloon.png in Resources */ = {isa = PBXBuildFile; fileRef = DC0522D82CB49CE700C9181D /* pinkHot_airBalloon.png */; };
+		DC0523022CB49CE800C9181D /* red_greyHotAirBalloon.png in Resources */ = {isa = PBXBuildFile; fileRef = DC0522D92CB49CE700C9181D /* red_greyHotAirBalloon.png */; };
+		DC0523032CB49CE800C9181D /* reddown1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = DC0522DA2CB49CE700C9181D /* reddown1.jpg */; };
+		DC0523042CB49CE800C9181D /* redWhite_HotBalloon.png in Resources */ = {isa = PBXBuildFile; fileRef = DC0522DB2CB49CE700C9181D /* redWhite_HotBalloon.png */; };
+		DC0523052CB49CE800C9181D /* sky01.png in Resources */ = {isa = PBXBuildFile; fileRef = DC0522DC2CB49CE700C9181D /* sky01.png */; };
+		DC0523062CB49CE800C9181D /* sky02.png in Resources */ = {isa = PBXBuildFile; fileRef = DC0522DD2CB49CE700C9181D /* sky02.png */; };
+		DC0523072CB49CE800C9181D /* sky4.jpg in Resources */ = {isa = PBXBuildFile; fileRef = DC0522DE2CB49CE700C9181D /* sky4.jpg */; };
+		DC0523082CB49CE800C9181D /* sky5.jpg in Resources */ = {isa = PBXBuildFile; fileRef = DC0522DF2CB49CE700C9181D /* sky5.jpg */; };
+		DC0523092CB49CE800C9181D /* sky6.jpg in Resources */ = {isa = PBXBuildFile; fileRef = DC0522E02CB49CE700C9181D /* sky6.jpg */; };
+		DC05230A2CB49CE800C9181D /* sky7.jpg in Resources */ = {isa = PBXBuildFile; fileRef = DC0522E12CB49CE700C9181D /* sky7.jpg */; };
+		DC05230B2CB49CE800C9181D /* sky8.jpg in Resources */ = {isa = PBXBuildFile; fileRef = DC0522E22CB49CE700C9181D /* sky8.jpg */; };
+		DC05230C2CB49CE800C9181D /* skyhigh.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = DC0522E32CB49CE700C9181D /* skyhigh.jpeg */; };
+		DC05230D2CB49CE800C9181D /* skytru.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = DC0522E42CB49CE700C9181D /* skytru.jpeg */; };
+		DC05230E2CB49CE800C9181D /* smoke_PNG55217-removebg-preview.png in Resources */ = {isa = PBXBuildFile; fileRef = DC0522E52CB49CE700C9181D /* smoke_PNG55217-removebg-preview.png */; };
+		DC0523102CB49DB100C9181D /* skyhigh_enhanced.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = DC05230F2CB49DB100C9181D /* skyhigh_enhanced.jpeg */; };
+		DC0523122CB9F17E00C9181D /* cloudRend.png in Resources */ = {isa = PBXBuildFile; fileRef = DC0523112CB9F17E00C9181D /* cloudRend.png */; };
+		DC7C3D772C8540B8005F8E2F /* AnimationArt.atlas in Resources */ = {isa = PBXBuildFile; fileRef = DC7C3D762C8540B8005F8E2F /* AnimationArt.atlas */; };
 		DC87F1852C619AE8003541CC /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = DC87F1842C619AE8003541CC /* AppDelegate.swift */; };
 		DC87F1872C619AE9003541CC /* GameScene.sks in Resources */ = {isa = PBXBuildFile; fileRef = DC87F1862C619AE9003541CC /* GameScene.sks */; };
 		DC87F1892C619AE9003541CC /* Actions.sks in Resources */ = {isa = PBXBuildFile; fileRef = DC87F1882C619AE9003541CC /* Actions.sks */; };
@@ -15,9 +59,57 @@
 		DC87F1902C619AE9003541CC /* Base in Resources */ = {isa = PBXBuildFile; fileRef = DC87F18F2C619AE9003541CC /* Base */; };
 		DC87F1922C619AED003541CC /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DC87F1912C619AED003541CC /* Assets.xcassets */; };
 		DC87F1952C619AED003541CC /* Base in Resources */ = {isa = PBXBuildFile; fileRef = DC87F1942C619AED003541CC /* Base */; };
+		DC87F19D2C61A25C003541CC /* Score.swift in Sources */ = {isa = PBXBuildFile; fileRef = DC87F19C2C61A25C003541CC /* Score.swift */; };
+		DC87F1A32C61A7BB003541CC /* GameData.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = DC87F1A12C61A7BB003541CC /* GameData.xcdatamodeld */; };
+		DC87F1A52C61ADAC003541CC /* GameData.swift in Sources */ = {isa = PBXBuildFile; fileRef = DC87F1A42C61ADAC003541CC /* GameData.swift */; };
+		DC989BAE2CC862B500E1DDC1 /* backgroundDB.json in Resources */ = {isa = PBXBuildFile; fileRef = DC989BAD2CC862B500E1DDC1 /* backgroundDB.json */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		DC0522512CA60FFA00C9181D /* UserData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserData.swift; sourceTree = "<group>"; };
+		DC0522BD2CB49CE700C9181D /* Hot-Air-Balloon-PNG-Image@1x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Hot-Air-Balloon-PNG-Image@1x.png"; sourceTree = "<group>"; };
+		DC0522BE2CB49CE700C9181D /* Hot-Air-Balloon-PNG-Image@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Hot-Air-Balloon-PNG-Image@2x.png"; sourceTree = "<group>"; };
+		DC0522BF2CB49CE700C9181D /* Hot-Air-Balloon-PNG-Image@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Hot-Air-Balloon-PNG-Image@3x.png"; sourceTree = "<group>"; };
+		DC0522C12CB49CE700C9181D /* 3d-fantasy-scene copy.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "3d-fantasy-scene copy.jpg"; sourceTree = "<group>"; };
+		DC0522C22CB49CE700C9181D /* 3d-fantasy-scene.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "3d-fantasy-scene.jpg"; sourceTree = "<group>"; };
+		DC0522C32CB49CE700C9181D /* aircraft_balloon_air.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = aircraft_balloon_air.jpeg; sourceTree = "<group>"; };
+		DC0522C42CB49CE700C9181D /* anime-style-clouds (1).jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "anime-style-clouds (1).jpg"; sourceTree = "<group>"; };
+		DC0522C52CB49CE700C9181D /* backgroun1.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = backgroun1.jpeg; sourceTree = "<group>"; };
+		DC0522C62CB49CE700C9181D /* beautiful-clouds-scenery.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "beautiful-clouds-scenery.jpg"; sourceTree = "<group>"; };
+		DC0522C72CB49CE700C9181D /* down4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = down4.png; sourceTree = "<group>"; };
+		DC0522C82CB49CE700C9181D /* down5.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = down5.jpeg; sourceTree = "<group>"; };
+		DC0522C92CB49CE700C9181D /* down7.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = down7.jpg; sourceTree = "<group>"; };
+		DC0522CA2CB49CE700C9181D /* down9.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = down9.jpg; sourceTree = "<group>"; };
+		DC0522CB2CB49CE700C9181D /* down10.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = down10.jpg; sourceTree = "<group>"; };
+		DC0522CC2CB49CE700C9181D /* down11.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = down11.jpg; sourceTree = "<group>"; };
+		DC0522CD2CB49CE700C9181D /* down12.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = down12.jpg; sourceTree = "<group>"; };
+		DC0522CE2CB49CE700C9181D /* download2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = download2.jpg; sourceTree = "<group>"; };
+		DC0522CF2CB49CE700C9181D /* download3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = download3.png; sourceTree = "<group>"; };
+		DC0522D02CB49CE700C9181D /* Explosion-PNG-removebg-preview.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Explosion-PNG-removebg-preview.png"; sourceTree = "<group>"; };
+		DC0522D12CB49CE700C9181D /* grass_tileset.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = grass_tileset.png; sourceTree = "<group>"; };
+		DC0522D22CB49CE700C9181D /* hot-air-balloon-1.webp */ = {isa = PBXFileReference; lastKnownFileType = file; path = "hot-air-balloon-1.webp"; sourceTree = "<group>"; };
+		DC0522D32CB49CE700C9181D /* Hot-Air-Balloon-PNG-Image.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Hot-Air-Balloon-PNG-Image.png"; sourceTree = "<group>"; };
+		DC0522D42CB49CE700C9181D /* Hot-Air-Balloon-PNG-Pic.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Hot-Air-Balloon-PNG-Pic.png"; sourceTree = "<group>"; };
+		DC0522D52CB49CE700C9181D /* Hot-Air-Balloon-PNG-Pic.psd */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Hot-Air-Balloon-PNG-Pic.psd"; sourceTree = "<group>"; };
+		DC0522D62CB49CE700C9181D /* i01_skytru.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = i01_skytru.jpeg; sourceTree = "<group>"; };
+		DC0522D72CB49CE700C9181D /* nature-landscape-with-dreamy-aesthetic-color-year-tones.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "nature-landscape-with-dreamy-aesthetic-color-year-tones.jpg"; sourceTree = "<group>"; };
+		DC0522D82CB49CE700C9181D /* pinkHot_airBalloon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = pinkHot_airBalloon.png; sourceTree = "<group>"; };
+		DC0522D92CB49CE700C9181D /* red_greyHotAirBalloon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = red_greyHotAirBalloon.png; sourceTree = "<group>"; };
+		DC0522DA2CB49CE700C9181D /* reddown1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = reddown1.jpg; sourceTree = "<group>"; };
+		DC0522DB2CB49CE700C9181D /* redWhite_HotBalloon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = redWhite_HotBalloon.png; sourceTree = "<group>"; };
+		DC0522DC2CB49CE700C9181D /* sky01.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = sky01.png; sourceTree = "<group>"; };
+		DC0522DD2CB49CE700C9181D /* sky02.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = sky02.png; sourceTree = "<group>"; };
+		DC0522DE2CB49CE700C9181D /* sky4.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = sky4.jpg; sourceTree = "<group>"; };
+		DC0522DF2CB49CE700C9181D /* sky5.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = sky5.jpg; sourceTree = "<group>"; };
+		DC0522E02CB49CE700C9181D /* sky6.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = sky6.jpg; sourceTree = "<group>"; };
+		DC0522E12CB49CE700C9181D /* sky7.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = sky7.jpg; sourceTree = "<group>"; };
+		DC0522E22CB49CE700C9181D /* sky8.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = sky8.jpg; sourceTree = "<group>"; };
+		DC0522E32CB49CE700C9181D /* skyhigh.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = skyhigh.jpeg; sourceTree = "<group>"; };
+		DC0522E42CB49CE700C9181D /* skytru.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = skytru.jpeg; sourceTree = "<group>"; };
+		DC0522E52CB49CE700C9181D /* smoke_PNG55217-removebg-preview.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "smoke_PNG55217-removebg-preview.png"; sourceTree = "<group>"; };
+		DC05230F2CB49DB100C9181D /* skyhigh_enhanced.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = skyhigh_enhanced.jpeg; sourceTree = "<group>"; };
+		DC0523112CB9F17E00C9181D /* cloudRend.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = cloudRend.png; sourceTree = "<group>"; };
+		DC7C3D762C8540B8005F8E2F /* AnimationArt.atlas */ = {isa = PBXFileReference; lastKnownFileType = folder.skatlas; name = AnimationArt.atlas; path = Assets.xcassets/AnimationArt.atlas; sourceTree = "<group>"; };
 		DC87F1812C619AE8003541CC /* Hot Air Heights.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Hot Air Heights.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		DC87F1842C619AE8003541CC /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		DC87F1862C619AE9003541CC /* GameScene.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = GameScene.sks; sourceTree = "<group>"; };
@@ -27,6 +119,10 @@
 		DC87F18F2C619AE9003541CC /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		DC87F1912C619AED003541CC /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		DC87F1942C619AED003541CC /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		DC87F19C2C61A25C003541CC /* Score.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Score.swift; sourceTree = "<group>"; };
+		DC87F1A22C61A7BB003541CC /* GameData.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = GameData.xcdatamodel; sourceTree = "<group>"; };
+		DC87F1A42C61ADAC003541CC /* GameData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GameData.swift; sourceTree = "<group>"; };
+		DC989BAD2CC862B500E1DDC1 /* backgroundDB.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = backgroundDB.json; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -40,6 +136,63 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		DC0522C02CB49CE700C9181D /* iOS Image */ = {
+			isa = PBXGroup;
+			children = (
+				DC0522BD2CB49CE700C9181D /* Hot-Air-Balloon-PNG-Image@1x.png */,
+				DC0522BE2CB49CE700C9181D /* Hot-Air-Balloon-PNG-Image@2x.png */,
+				DC0522BF2CB49CE700C9181D /* Hot-Air-Balloon-PNG-Image@3x.png */,
+			);
+			path = "iOS Image";
+			sourceTree = "<group>";
+		};
+		DC0522E62CB49CE700C9181D /* Images */ = {
+			isa = PBXGroup;
+			children = (
+				DC0522C02CB49CE700C9181D /* iOS Image */,
+				DC0522C12CB49CE700C9181D /* 3d-fantasy-scene copy.jpg */,
+				DC0523112CB9F17E00C9181D /* cloudRend.png */,
+				DC05230F2CB49DB100C9181D /* skyhigh_enhanced.jpeg */,
+				DC0522C22CB49CE700C9181D /* 3d-fantasy-scene.jpg */,
+				DC0522C32CB49CE700C9181D /* aircraft_balloon_air.jpeg */,
+				DC0522C42CB49CE700C9181D /* anime-style-clouds (1).jpg */,
+				DC0522C52CB49CE700C9181D /* backgroun1.jpeg */,
+				DC0522C62CB49CE700C9181D /* beautiful-clouds-scenery.jpg */,
+				DC0522C72CB49CE700C9181D /* down4.png */,
+				DC0522C82CB49CE700C9181D /* down5.jpeg */,
+				DC0522C92CB49CE700C9181D /* down7.jpg */,
+				DC0522CA2CB49CE700C9181D /* down9.jpg */,
+				DC0522CB2CB49CE700C9181D /* down10.jpg */,
+				DC0522CC2CB49CE700C9181D /* down11.jpg */,
+				DC0522CD2CB49CE700C9181D /* down12.jpg */,
+				DC0522CE2CB49CE700C9181D /* download2.jpg */,
+				DC0522CF2CB49CE700C9181D /* download3.png */,
+				DC0522D02CB49CE700C9181D /* Explosion-PNG-removebg-preview.png */,
+				DC0522D12CB49CE700C9181D /* grass_tileset.png */,
+				DC0522D22CB49CE700C9181D /* hot-air-balloon-1.webp */,
+				DC0522D32CB49CE700C9181D /* Hot-Air-Balloon-PNG-Image.png */,
+				DC0522D42CB49CE700C9181D /* Hot-Air-Balloon-PNG-Pic.png */,
+				DC0522D52CB49CE700C9181D /* Hot-Air-Balloon-PNG-Pic.psd */,
+				DC0522D62CB49CE700C9181D /* i01_skytru.jpeg */,
+				DC0522D72CB49CE700C9181D /* nature-landscape-with-dreamy-aesthetic-color-year-tones.jpg */,
+				DC0522D82CB49CE700C9181D /* pinkHot_airBalloon.png */,
+				DC0522D92CB49CE700C9181D /* red_greyHotAirBalloon.png */,
+				DC0522DA2CB49CE700C9181D /* reddown1.jpg */,
+				DC0522DB2CB49CE700C9181D /* redWhite_HotBalloon.png */,
+				DC0522DC2CB49CE700C9181D /* sky01.png */,
+				DC0522DD2CB49CE700C9181D /* sky02.png */,
+				DC0522DE2CB49CE700C9181D /* sky4.jpg */,
+				DC0522DF2CB49CE700C9181D /* sky5.jpg */,
+				DC0522E02CB49CE700C9181D /* sky6.jpg */,
+				DC0522E12CB49CE700C9181D /* sky7.jpg */,
+				DC0522E22CB49CE700C9181D /* sky8.jpg */,
+				DC0522E32CB49CE700C9181D /* skyhigh.jpeg */,
+				DC0522E42CB49CE700C9181D /* skytru.jpeg */,
+				DC0522E52CB49CE700C9181D /* smoke_PNG55217-removebg-preview.png */,
+			);
+			path = Images;
+			sourceTree = "<group>";
+		};
 		DC87F1782C619AE8003541CC = {
 			isa = PBXGroup;
 			children = (
@@ -60,15 +213,54 @@
 			isa = PBXGroup;
 			children = (
 				DC87F1842C619AE8003541CC /* AppDelegate.swift */,
-				DC87F1862C619AE9003541CC /* GameScene.sks */,
-				DC87F1882C619AE9003541CC /* Actions.sks */,
-				DC87F18A2C619AE9003541CC /* GameScene.swift */,
-				DC87F18C2C619AE9003541CC /* GameViewController.swift */,
+				DC87F1A02C61A6C5003541CC /* Scene */,
+				DC87F19E2C61A679003541CC /* Controllers */,
 				DC87F18E2C619AE9003541CC /* Main.storyboard */,
-				DC87F1912C619AED003541CC /* Assets.xcassets */,
+				DC87F19B2C61A22F003541CC /* Model */,
+				DC0522E62CB49CE700C9181D /* Images */,
 				DC87F1932C619AED003541CC /* LaunchScreen.storyboard */,
+				DC989BAC2CC845BF00E1DDC1 /* Data */,
+				DC87F1912C619AED003541CC /* Assets.xcassets */,
+				DC7C3D762C8540B8005F8E2F /* AnimationArt.atlas */,
 			);
 			path = "Hot Air Heights";
+			sourceTree = "<group>";
+		};
+		DC87F19B2C61A22F003541CC /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				DC87F19C2C61A25C003541CC /* Score.swift */,
+				DC87F1A42C61ADAC003541CC /* GameData.swift */,
+				DC0522512CA60FFA00C9181D /* UserData.swift */,
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		DC87F19E2C61A679003541CC /* Controllers */ = {
+			isa = PBXGroup;
+			children = (
+				DC87F18A2C619AE9003541CC /* GameScene.swift */,
+				DC87F18C2C619AE9003541CC /* GameViewController.swift */,
+			);
+			path = Controllers;
+			sourceTree = "<group>";
+		};
+		DC87F1A02C61A6C5003541CC /* Scene */ = {
+			isa = PBXGroup;
+			children = (
+				DC87F1862C619AE9003541CC /* GameScene.sks */,
+				DC87F1882C619AE9003541CC /* Actions.sks */,
+			);
+			path = Scene;
+			sourceTree = "<group>";
+		};
+		DC989BAC2CC845BF00E1DDC1 /* Data */ = {
+			isa = PBXGroup;
+			children = (
+				DC87F1A12C61A7BB003541CC /* GameData.xcdatamodeld */,
+				DC989BAD2CC862B500E1DDC1 /* backgroundDB.json */,
+			);
+			path = Data;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -129,10 +321,54 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				DC0523122CB9F17E00C9181D /* cloudRend.png in Resources */,
+				DC05230D2CB49CE800C9181D /* skytru.jpeg in Resources */,
+				DC0522ED2CB49CE800C9181D /* anime-style-clouds (1).jpg in Resources */,
+				DC0522EA2CB49CE800C9181D /* 3d-fantasy-scene copy.jpg in Resources */,
+				DC0522F12CB49CE800C9181D /* down5.jpeg in Resources */,
+				DC0522F52CB49CE800C9181D /* down11.jpg in Resources */,
+				DC0522EE2CB49CE800C9181D /* backgroun1.jpeg in Resources */,
+				DC0522EF2CB49CE800C9181D /* beautiful-clouds-scenery.jpg in Resources */,
 				DC87F1872C619AE9003541CC /* GameScene.sks in Resources */,
 				DC87F1902C619AE9003541CC /* Base in Resources */,
+				DC0522F32CB49CE800C9181D /* down9.jpg in Resources */,
+				DC0523032CB49CE800C9181D /* reddown1.jpg in Resources */,
+				DC0523022CB49CE800C9181D /* red_greyHotAirBalloon.png in Resources */,
+				DC0523082CB49CE800C9181D /* sky5.jpg in Resources */,
+				DC0522F22CB49CE800C9181D /* down7.jpg in Resources */,
+				DC05230A2CB49CE800C9181D /* sky7.jpg in Resources */,
+				DC0522E72CB49CE800C9181D /* Hot-Air-Balloon-PNG-Image@1x.png in Resources */,
+				DC0522F82CB49CE800C9181D /* download3.png in Resources */,
+				DC0522FF2CB49CE800C9181D /* i01_skytru.jpeg in Resources */,
 				DC87F1922C619AED003541CC /* Assets.xcassets in Resources */,
+				DC989BAE2CC862B500E1DDC1 /* backgroundDB.json in Resources */,
+				DC0523012CB49CE800C9181D /* pinkHot_airBalloon.png in Resources */,
+				DC05230E2CB49CE800C9181D /* smoke_PNG55217-removebg-preview.png in Resources */,
+				DC05230C2CB49CE800C9181D /* skyhigh.jpeg in Resources */,
+				DC0522FD2CB49CE800C9181D /* Hot-Air-Balloon-PNG-Pic.png in Resources */,
+				DC0522F92CB49CE800C9181D /* Explosion-PNG-removebg-preview.png in Resources */,
+				DC0523092CB49CE800C9181D /* sky6.jpg in Resources */,
+				DC0523002CB49CE800C9181D /* nature-landscape-with-dreamy-aesthetic-color-year-tones.jpg in Resources */,
+				DC0522F02CB49CE800C9181D /* down4.png in Resources */,
+				DC0522FA2CB49CE800C9181D /* grass_tileset.png in Resources */,
+				DC05230B2CB49CE800C9181D /* sky8.jpg in Resources */,
 				DC87F1892C619AE9003541CC /* Actions.sks in Resources */,
+				DC0522F62CB49CE800C9181D /* down12.jpg in Resources */,
+				DC0522FE2CB49CE800C9181D /* Hot-Air-Balloon-PNG-Pic.psd in Resources */,
+				DC0523062CB49CE800C9181D /* sky02.png in Resources */,
+				DC0522EC2CB49CE800C9181D /* aircraft_balloon_air.jpeg in Resources */,
+				DC0522F42CB49CE800C9181D /* down10.jpg in Resources */,
+				DC7C3D772C8540B8005F8E2F /* AnimationArt.atlas in Resources */,
+				DC0522FB2CB49CE800C9181D /* hot-air-balloon-1.webp in Resources */,
+				DC0523102CB49DB100C9181D /* skyhigh_enhanced.jpeg in Resources */,
+				DC0522FC2CB49CE800C9181D /* Hot-Air-Balloon-PNG-Image.png in Resources */,
+				DC0522E92CB49CE800C9181D /* Hot-Air-Balloon-PNG-Image@3x.png in Resources */,
+				DC0523042CB49CE800C9181D /* redWhite_HotBalloon.png in Resources */,
+				DC0522EB2CB49CE800C9181D /* 3d-fantasy-scene.jpg in Resources */,
+				DC0522E82CB49CE800C9181D /* Hot-Air-Balloon-PNG-Image@2x.png in Resources */,
+				DC0523052CB49CE800C9181D /* sky01.png in Resources */,
+				DC0522F72CB49CE800C9181D /* download2.jpg in Resources */,
+				DC0523072CB49CE800C9181D /* sky4.jpg in Resources */,
 				DC87F1952C619AED003541CC /* Base in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -146,7 +382,11 @@
 			files = (
 				DC87F18B2C619AE9003541CC /* GameScene.swift in Sources */,
 				DC87F18D2C619AE9003541CC /* GameViewController.swift in Sources */,
+				DC87F1A32C61A7BB003541CC /* GameData.xcdatamodeld in Sources */,
+				DC0522522CA60FFA00C9181D /* UserData.swift in Sources */,
+				DC87F19D2C61A25C003541CC /* Score.swift in Sources */,
 				DC87F1852C619AE8003541CC /* AppDelegate.swift in Sources */,
+				DC87F1A52C61ADAC003541CC /* GameData.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -298,6 +538,7 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 9Y2YBSVP6Z;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
@@ -305,6 +546,7 @@
 				INFOPLIST_KEY_UIStatusBarHidden = YES;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 15.6;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -312,6 +554,10 @@
 				MARKETING_VERSION = 1.0;
 				PRODUCT_BUNDLE_IDENTIFIER = "com.EstablishPoint.Hot-Air-Heights";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator macosx";
+				SUPPORTS_MACCATALYST = NO;
+				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = NO;
+				SUPPORTS_XR_DESIGNED_FOR_IPHONE_IPAD = NO;
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -325,6 +571,7 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 9Y2YBSVP6Z;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
@@ -332,6 +579,7 @@
 				INFOPLIST_KEY_UIStatusBarHidden = YES;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 15.6;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -339,6 +587,10 @@
 				MARKETING_VERSION = 1.0;
 				PRODUCT_BUNDLE_IDENTIFIER = "com.EstablishPoint.Hot-Air-Heights";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator macosx";
+				SUPPORTS_MACCATALYST = NO;
+				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = NO;
+				SUPPORTS_XR_DESIGNED_FOR_IPHONE_IPAD = NO;
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -367,6 +619,19 @@
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
+
+/* Begin XCVersionGroup section */
+		DC87F1A12C61A7BB003541CC /* GameData.xcdatamodeld */ = {
+			isa = XCVersionGroup;
+			children = (
+				DC87F1A22C61A7BB003541CC /* GameData.xcdatamodel */,
+			);
+			currentVersion = DC87F1A22C61A7BB003541CC /* GameData.xcdatamodel */;
+			path = GameData.xcdatamodeld;
+			sourceTree = "<group>";
+			versionGroupType = wrapper.xcdatamodel;
+		};
+/* End XCVersionGroup section */
 	};
 	rootObject = DC87F1792C619AE8003541CC /* Project object */;
 }
